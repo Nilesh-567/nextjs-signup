@@ -1,6 +1,7 @@
 {
-  "name": "nextjs-signup-form",
+  "name": "nextjs-signup",
   "version": "1.0.0",
+  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,9 +10,7 @@
   "dependencies": {
     "next": "13.5.0",
     "react": "18.2.0",
-    "react-dom": "18.2.0", 
+    "react-dom": "18.2.0",
     "mongodb": "^5.0.1"
-  },
-  "type": "module"
+  }
 }
- 
